@@ -13,19 +13,19 @@ const DUMMY_MEALS = [
     {
         id: 13,
         name: "Burger",
-        description: "This juicy burger is jam-packed with all kinds of stuff and has no tasteless bread crumbs",
+        description: "Juicy burger tasteless bread crumbs",
         price: 25.99
     },
     {
         id: 14,
         name: "Pizza",
-        description: " It's topped with refried beans, cheese, romaine, crumbled tortilla chips, and the icing on the cake",
+        description: "Beans cheese romaine crumbled chips",
         price: 30.99
     },
     {
         id: 15,
         name: "Tater tots",
-        description: "Stir in flour, garlic powder, onion powder, oregano and dill; season with salt and pepper, to taste.",
+        description: "Stir in flour garlic onion powder",
         price: 52.99
     },
 ];
